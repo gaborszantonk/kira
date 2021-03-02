@@ -2,4 +2,5 @@
 A feladat a reszponzív lapod építése, szerkesztése lesz...
 Te is írhastz ide természetesen...
 # 03 01 feladat
-Pullold le a repot, a pict mappába tegyél egy másik képet, írd át a html kódot... Jelenítsd meg az új képet!
+Pullold le a repot, a pict mappába tegyél egy másik képet, írd át a html kódot... Jelenítsd meg az új képet!<br>
+Töröltem a képet és hozzáadtam egy újat!

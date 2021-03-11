@@ -1,4 +1,4 @@
-# Dömötö Kira oldala
+# Dömötör Kira oldala
 
 https://gaborszantonk.github.io/kira/
 
